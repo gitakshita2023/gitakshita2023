@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Akshita.
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Angular and Springboot.
 - 💞️ I’m looking to collaborate on various projects on web development.
 - 📫 How to reach me: Please do connect through my Linkedin Profile: Akshita Shree
-- 😄 I have knowledge of data structure, C, C++, Python, HTML, CSS and DBMS.
+- 😄 I have knowledge of data structure, C, C++, HTML, CSS, javascript, React.js, Angular and SQL.
 - ⚡ Fun fact: I love to communicate with people and learn new skills.
 
 <!---
